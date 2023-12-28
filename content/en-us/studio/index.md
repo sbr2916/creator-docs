@@ -1,7 +1,6 @@
 ---
-title: Welcome to Roblox Studio
-description: Learn how Roblox Studio is an all-in-one IDE that lets you create experiences that run on the Roblox Engine.
----
+title: Brookhaven with Santa Claus
+description: Brookhaven just with Santa Claus
 **Build anything you can imagine with the all-in-one IDE for Roblox.**
 
 Roblox Studio is an all-in-one IDE that lets you create experiences that run on
